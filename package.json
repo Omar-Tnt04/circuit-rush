@@ -1,0 +1,5 @@
+{
+  "name": "circuit-rush",
+  "private": true,
+  "scripts": { "start": "node start.js" }
+}
